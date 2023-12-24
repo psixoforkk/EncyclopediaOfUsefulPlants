@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/LuckyClover.ico</file>
+        <file>images/LuckyClover.webp</file>
+        <file>images/LuckyCloverNo.jpg</file>
+    </qresource>
+</RCC>
